@@ -39,14 +39,7 @@ Currently diving deep into **Next.js**, **Supabase**, and **automation systems**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmithBachu&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&hide_border=true" height="160px"/>
 </div>
 
----
-
-### 🪩 Currently Exploring
-- 🌐 **Blockchain ecosystems** & decentralized workflows  
-- ⚙️ **Web automation** and intelligent full-stack architectures  
-- 🎨 **UI motion and glassmorphism** to enhance user feel  
-
----
+------
 
 ### 🌐 Connect with Me
 <p align="left">
