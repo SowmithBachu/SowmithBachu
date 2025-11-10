@@ -1,100 +1,68 @@
-<!-- 🧊 FUTURISTIC CYBERPUNK README FOR github.com/SowmithBachu -->
+<!-- 💎 Clean Futuristic Blue GitHub Profile README for SowmithBachu -->
 
-<!-- 3D Neon Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=120&section=header&text=Sowmith%20Bachu%20⚡%20Blockchain%20Developer&fontSize=35&fontColor=0D1117&fontAlignY=55&desc=Futuristic%20Coder%20|%20Full%20Stack%20Builder%20|%20Web3%20Enthusiast&descAlignY=80&descAlign=50"/>
-</p>
+<h1 align="left" style="font-family: 'Poppins', sans-serif; color: #00aaff;">👋 Hey, I'm Sowmith Bachu</h1>
 
----
-
-<div align="left">
-
-<!-- Animated Typing Header -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=00F0FF&width=650&lines=Crafting+the+Future+of+Blockchain;Designing+3D+Cyber+Interfaces;Merging+Tech+and+Art+💠" alt="Typing animation" />
-</p>
+💻 **Full-Stack Developer | Blockchain Enthusiast | Tech Explorer**
 
 ---
 
-<!-- About Section in Neon Box -->
-<div style="background:rgba(0,255,255,0.06);border-left:4px solid #00FFFF;padding:18px 25px;border-radius:15px;margin-bottom:20px;backdrop-filter:blur(10px);box-shadow:0 0 20px rgba(0,255,255,0.2);">
-<h3 style="color:#00f0ff;font-family:Orbitron;">🚀 About Me</h3>
-<p style="color:#b8f9ff;font-family:monospace;">
-Blockchain-focused developer blending <b>futuristic UI design</b> and <b>cutting-edge web technologies</b>.  
-Passionate about building systems that feel immersive, reactive, and alive.  
-Always exploring where <b>Web3</b>, <b>AI</b>, and <b>creativity</b> intersect.
-</p>
-</div>
-
-<!-- Tech Stack in Glass Cards -->
-<h3 style="color:#00f0ff;font-family:Orbitron;">🧰 Tech Stack</h3>
-
-<div style="display:flex;flex-wrap:wrap;gap:10px;">
-  
-  <div style="background:rgba(0,255,255,0.08);border:1px solid rgba(0,255,255,0.3);border-radius:12px;padding:12px 18px;box-shadow:0 0 10px rgba(0,255,255,0.4);">
-  <b style="color:#00f0ff;">Frontend</b><br>
-  <span style="color:#b8f9ff;">React · Next.js · TypeScript</span>
-  </div>
-  
-  <div style="background:rgba(0,255,255,0.08);border:1px solid rgba(0,255,255,0.3);border-radius:12px;padding:12px 18px;box-shadow:0 0 10px rgba(0,255,255,0.4);">
-  <b style="color:#00f0ff;">Backend</b><br>
-  <span style="color:#b8f9ff;">Node.js · Express · Supabase</span>
-  </div>
-
-  <div style="background:rgba(0,255,255,0.08);border:1px solid rgba(0,255,255,0.3);border-radius:12px;padding:12px 18px;box-shadow:0 0 10px rgba(0,255,255,0.4);">
-  <b style="color:#00f0ff;">Blockchain</b><br>
-  <span style="color:#b8f9ff;">Solana · EVM · Smart Contracts</span>
-  </div>
-
-  <div style="background:rgba(0,255,255,0.08);border:1px solid rgba(0,255,255,0.3);border-radius:12px;padding:12px 18px;box-shadow:0 0 10px rgba(0,255,255,0.4);">
-  <b style="color:#00f0ff;">Tools</b><br>
-  <span style="color:#b8f9ff;">Docker · Git · Vercel · Figma</span>
-  </div>
-
-</div>
+### 🧠 About Me
+I’m passionate about building **AI-integrated web apps**, **exploring blockchain concepts**, and **designing clean, futuristic user experiences**.  
+Currently diving deep into **Next.js**, **Supabase**, and **automation systems** that make digital workflows smarter.
 
 ---
 
-<!-- GitHub Stats in a Glass Section -->
-<div style="background:rgba(0,255,255,0.06);border-left:4px solid #00FFFF;padding:15px 20px;border-radius:15px;backdrop-filter:blur(10px);box-shadow:0 0 20px rgba(0,255,255,0.2);margin-top:25px;">
-<h3 style="color:#00f0ff;font-family:Orbitron;">📊 GitHub Analytics</h3>
+### 🧰 Tech Stack
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SowmithBachu&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=00FFFF&title_color=00FFFF&text_color=C9D1D9"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SowmithBachu&theme=tokyonight&background=00000000&border=0E1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00A8FF"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+<div align="left" style="background:#0d1117;border-radius:15px;padding:20px;width:fit-content;box-shadow:0 0 15px rgba(0,170,255,0.1);">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SowmithBachu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&hide_border=true" height="160px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmithBachu&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&hide_border=true" height="160px"/>
 </div>
 
 ---
 
-<!-- Quote Section -->
-<div style="background:rgba(0,255,255,0.05);border-left:4px solid #00FFFF;padding:15px 20px;border-radius:15px;backdrop-filter:blur(10px);box-shadow:0 0 20px rgba(0,255,255,0.2);margin-top:25px;">
-<p style="color:#00f0ff;font-family:Orbitron;font-size:15px;">
-💬 “Every line of code should glow like neon — precise, elegant, and alive.”
-</p>
-</div>
+### 🪩 Currently Exploring
+- 🌐 **Blockchain ecosystems** & decentralized workflows  
+- ⚙️ **Web automation** and intelligent full-stack architectures  
+- 🎨 **UI motion and glassmorphism** to enhance user feel  
 
 ---
 
-<!-- Social Links -->
-<h3 style="color:#00f0ff;font-family:Orbitron;">🔗 Connect</h3>
-<p>
+### 🌐 Connect with Me
+<p align="left">
   <a href="https://linkedin.com/in/sowmith-bachu-1160492b3">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=00FFFF&color=0D1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
   </a>
   <a href="mailto:sowmithbachu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00FFFF&color=0D1117"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00A8FF"/>
   </a>
   <a href="https://github.com/SowmithBachu">
-    <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=00FFFF&color=0D1117"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00A8FF"/>
   </a>
 </p>
 
-<!-- Animated Contribution Snake -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+---
 
-<!-- Futuristic Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<p align="center" style="color:#00aaff;font-family:monospace;">
+  "Innovation is born when technology feels alive."
 </p>
-
-</div>
