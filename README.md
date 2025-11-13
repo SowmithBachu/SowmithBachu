@@ -34,21 +34,5 @@
 
 ------
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/sowmith-bachu-1160492b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
-  </a>
-  <a href="mailto:sowmithbachu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00A8FF"/>
-  </a>
-  <a href="https://github.com/SowmithBachu">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00A8FF"/>
-  </a>
-</p>
 
----
 
-<p align="center" style="color:#00aaff;font-family:monospace;">
-  "Innovation is born when technology feels alive."
-</p>
