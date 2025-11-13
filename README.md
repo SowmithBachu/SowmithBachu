@@ -4,13 +4,6 @@
 
 💻 **Full-Stack Developer | Blockchain Enthusiast | Tech Explorer**
 
----
-
-### 🧠 About Me
-I’m passionate about building **AI-integrated web apps**, **exploring blockchain concepts**, and **designing clean, futuristic user experiences**.  
-Currently diving deep into **Next.js**, **Supabase**, and **automation systems** that make digital workflows smarter.
-
----
 
 ### 🧰 Tech Stack
 <p align="left">
